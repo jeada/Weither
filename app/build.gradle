@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.weither"
+        applicationId "com.weather"
         minSdkVersion 19
         targetSdkVersion 21
         versionCode 1
